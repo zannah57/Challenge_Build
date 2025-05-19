@@ -81,8 +81,8 @@ This project provides a comprehensive approach to forecasting national climate c
 
 ## License
 
-[You can add license information here if applicable, e.g., MIT, Apache 2.0, etc.]
+---
 
 ## Contact
 
-[Add your contact information here if you want to be contacted about the project]
+Zannahgamboabubakar@gmail.com
